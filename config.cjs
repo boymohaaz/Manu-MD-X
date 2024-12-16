@@ -1,6 +1,6 @@
 module.exports = {
   "ALIVE_IMG": "",
-  "FOOT": "Maarvin boy YT",
+  "FOOT": "George dad",
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
   "MODE": "private",
